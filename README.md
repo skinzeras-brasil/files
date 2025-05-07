@@ -2,7 +2,8 @@
 
 Arquivos disponibilizados para ajudar a nossa comunidade na criação das skins
 
-[PDF](manual-cores-workshopsteam.pdf) com esquemas de cores para criação de skins
+📄 [Visualizar ou baixar o PDF](https://github.com/skinzeras-brasil/files/raw/main/manual-cores-workshopsteam.pdf)
+
 
 ## Arquivos padrão das skins
 
